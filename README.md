@@ -14,4 +14,8 @@ playlist: https://www.youtube.com/playlist?list=PLEyPgwIPkHo6bssK11gim08F-s3_RLw
 # VAGA BOND | @ivantrainsLIVE
 Home: https://www.youtube.com/@ivantrainsLIVE
 - [Solo in Norilsk - Russia's Most Polluted Closed City](https://youtu.be/kW1nGHunAkc)
+  - [Freight Train Hopping from Norilsk - Russia's Closed Arctic City](https://youtu.be/DKEXxl4vrCw)
 - [Freight Trainhopping across Kyrgyzstan](https://youtu.be/kJHgTgFw6p0)
+- [Riding Africa's Longest Trains across Sahara: My Epic Mauritanian Adventure](https://youtu.be/nFZlLSgbUQs)
+- [Freight Train Hopping Stalinbahn - The Trans-Polar Railway](https://youtu.be/smVyZGoOYe0)
+- [Freight Train Hopping in Mongolia 🇲🇳](https://youtu.be/Lw9nJgiYGZw)

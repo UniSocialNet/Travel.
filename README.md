@@ -14,3 +14,4 @@ playlist: https://www.youtube.com/playlist?list=PLEyPgwIPkHo6bssK11gim08F-s3_RLw
 # VAGA BOND | @ivantrainsLIVE
 Home: https://www.youtube.com/@ivantrainsLIVE
 - [Solo in Norilsk - Russia's Most Polluted Closed City](https://youtu.be/kW1nGHunAkc)
+- [Freight Trainhopping across Kyrgyzstan](https://youtu.be/kJHgTgFw6p0)

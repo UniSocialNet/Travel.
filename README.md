@@ -23,3 +23,8 @@ Home: https://www.youtube.com/@ivantrainsLIVE
 # Geography By Geoff
 Home: https://www.youtube.com/@GeographyByGeoff
 - [No Major Cities: Why So Few Canadians Live In On The East Coast](https://youtu.be/o-kkiZIERPc)
+
+# the Luxury Travel Expert | @luxurytravelexpert
+Home: https://www.youtube.com/@luxurytravelexpert
+- [ST REGIS BORA BORA | Amazing 5-star resort (full tour in 4K)](https://youtu.be/ZuyJiNxzgIg)
+- [ALILA MALDIVES | New 5-star resort in paradise (full tour in 4K)](https://youtu.be/APjX5dlpPU4)

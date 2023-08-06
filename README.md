@@ -28,3 +28,8 @@ Home: https://www.youtube.com/@GeographyByGeoff
 Home: https://www.youtube.com/@luxurytravelexpert
 - [ST REGIS BORA BORA | Amazing 5-star resort (full tour in 4K)](https://youtu.be/ZuyJiNxzgIg)
 - [ALILA MALDIVES | New 5-star resort in paradise (full tour in 4K)](https://youtu.be/APjX5dlpPU4)
+
+# relation:
+## Rock Climbing
+channel: https://www.youtube.com/@tylerkarow
+- [Gastronomic Big Wall Climbing in Patagonia](https://youtu.be/zpAdJxwOZjU)

@@ -2,6 +2,10 @@
 https://www.vox.com/the-goods/23388038/positano-travel-instagram
 
 # Channel:
+# Kara and Nate
+https://www.youtube.com/@KaraandNate
+- https://www.youtube.com/watch?v=2Cw2zzop8-A&ab_channel=KaraandNate
+
 # PeterSantenello
 Home: https://www.youtube.com/@PeterSantenello
 

@@ -1,0 +1,3 @@
+https://www.tripadvisor.co.nz/Tourism-g187525-Benidorm_Costa_Blanca_Province_of_Alicante_Valencian_Community-Vacations.html
+
+https://www.tripadvisor.co.nz/ShowTopic-g187525-i191-k2351654-o50-Attacked_in_benidorm-Benidorm_Costa_Blanca_Province_of_Alicante_Valencian_Community.html
